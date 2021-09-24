@@ -13,7 +13,7 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Sabinka
-2.
+2. Jakub
 3.
 4.
 
