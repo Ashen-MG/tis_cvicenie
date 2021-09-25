@@ -15,5 +15,5 @@ Nas tim tvoria clenovia:
 1. Sabinka
 2. Jakub
 3. Martin
-4.
+4. Slavo
 
