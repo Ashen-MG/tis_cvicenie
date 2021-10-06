@@ -10,7 +10,7 @@ rozdrvi ho a hra sa nepodari. Ked sa mnichom podari prelozit celu vezu na stlp 2
 nastane koniec sveta, len nikto, kto klastor navstivil si presne nepamata
 kolko kamenov mnisi prekladaju...
 
-Nas tim tvoria clenovia:
+Nas tim tvoria členovia:
 
 1. Sabinka
 2. Jakub
